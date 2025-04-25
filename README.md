@@ -95,7 +95,7 @@ Your input file should contain at least the following columns:
 ![Sentiment Chart](image/Sentiment.png)
 
 ### Review Categories
-![Category Chart](image/1.png)
+![Category Chart](image/4.png)
 
 ### Weekly Summary
 The weekly summary provides:
@@ -104,17 +104,7 @@ The weekly summary provides:
 - Specific customer complaints
 - Action items for improvement
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
 
 ---
 
