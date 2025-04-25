@@ -5,27 +5,27 @@ A powerful Streamlit application for analyzing Google Reviews using OpenAI's GPT
 ## Application Screenshots
 
 ### Main Interface
-![Main Application Interface](image/upload.png)
+<img src="image/upload.png" alt="Main Application Interface" style="border: 2px solid white; border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.5);"/>
 *Upload your Google Reviews data file to begin analysis*
 
 ### Sentiment Analysis
-![Sentiment Analysis Dashboard](image/Sentiment.png)
+<img src="image/Sentiment.png" alt="Sentiment Analysis Dashboard" style="border: 2px solid white; border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.5);"/>
 *Interactive sentiment distribution chart showing the breakdown of positive, negative, and neutral reviews*
 
 ### Review Categories
-![Review Categories](image/4.png)
+<img src="image/1.png" alt="Review Categories" style="border: 2px solid white; border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.5);"/>
 *Visualization of review categories (Service, Location, Product, Other)*
 
 ### Detailed Analysis
-![Detailed Analysis View](image/1.png)
+<img src="image/2.png" alt="Detailed Analysis View" style="border: 2px solid white; border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.5);"/>
 *In-depth analysis of review patterns and trends*
 
 ### Weekly Summary
-![Weekly Summary Report](image/2.png)
+<img src="image/3.png" alt="Weekly Summary Report" style="border: 2px solid white; border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.5);"/>
 *Comprehensive weekly summary with key insights and action items*
 
 ### Export Options
-![Export Options](image/3.png)
+<img src="image/4.png" alt="Export Options" style="border: 2px solid white; border-radius: 5px; box-shadow: 0 0 10px rgba(255,255,255,0.5);"/>
 *Download your analysis results in CSV or TXT format*
 
 ## Features
