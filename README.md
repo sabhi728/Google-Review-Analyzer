@@ -13,19 +13,19 @@ A powerful Streamlit application for analyzing Google Reviews using OpenAI's GPT
 *Interactive sentiment distribution chart showing the breakdown of positive, negative, and neutral reviews*
 
 ### Review Categories
-<img src="image/1.png" alt="Review Categories" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
+<img src="image/4.png" alt="Review Categories" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
 *Visualization of review categories (Service, Location, Product, Other)*
 
 ### Detailed Analysis
-<img src="image/2.png" alt="Detailed Analysis View" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
+<img src="image/1.png" alt="Detailed Analysis View" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
 *In-depth analysis of review patterns and trends*
 
 ### Weekly Summary
-<img src="image/3.png" alt="Weekly Summary Report" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
+<img src="image/2.png" alt="Weekly Summary Report" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
 *Comprehensive weekly summary with key insights and action items*
 
 ### Export Options
-<img src="image/4.png" alt="Export Options" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
+<img src="image/3.png" alt="Export Options" style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 15px rgba(255,255,255,0.8); padding: 5px; background-color: white;"/>
 *Download your analysis results in CSV or TXT format*
 
 ## Features
