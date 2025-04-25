@@ -2,7 +2,31 @@
 
 A powerful Streamlit application for analyzing Google Reviews using OpenAI's GPT-3.5-turbo model. This tool provides sentiment analysis, review classification, complaint detection, and generates detailed weekly summaries.
 
-![App Screenshot](image/upload.png)
+## Application Screenshots
+
+### Main Interface
+![Main Application Interface](image/upload.png)
+*Upload your Google Reviews data file to begin analysis*
+
+### Sentiment Analysis
+![Sentiment Analysis Dashboard](image/Sentiment.png)
+*Interactive sentiment distribution chart showing the breakdown of positive, negative, and neutral reviews*
+
+### Review Categories
+![Review Categories](image/1.png)
+*Visualization of review categories (Service, Location, Product, Other)*
+
+### Detailed Analysis
+![Detailed Analysis View](image/2.png)
+*In-depth analysis of review patterns and trends*
+
+### Weekly Summary
+![Weekly Summary Report](image/3.png)
+*Comprehensive weekly summary with key insights and action items*
+
+### Export Options
+![Export Options](image/4.png)
+*Download your analysis results in CSV or TXT format*
 
 ## Features
 
