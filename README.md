@@ -13,19 +13,19 @@ A powerful Streamlit application for analyzing Google Reviews using OpenAI's GPT
 *Interactive sentiment distribution chart showing the breakdown of positive, negative, and neutral reviews*
 
 ### Review Categories
-![Review Categories](image/1.png)
+![Review Categories](image/4.png)
 *Visualization of review categories (Service, Location, Product, Other)*
 
 ### Detailed Analysis
-![Detailed Analysis View](image/2.png)
+![Detailed Analysis View](image/1.png)
 *In-depth analysis of review patterns and trends*
 
 ### Weekly Summary
-![Weekly Summary Report](image/3.png)
+![Weekly Summary Report](image/2.png)
 *Comprehensive weekly summary with key insights and action items*
 
 ### Export Options
-![Export Options](image/4.png)
+![Export Options](image/3.png)
 *Download your analysis results in CSV or TXT format*
 
 ## Features
